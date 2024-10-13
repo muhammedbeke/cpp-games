@@ -1,0 +1,76 @@
+
+# Visual Studio 2022 İlgili Dosyalar
+.vs/
+*.vcxproj.user
+.vscode/CppProperties.json
+*.vcxproj.filters
+*.suo
+*.user
+*.opendb
+*.VC.db
+ipch/
+obj/
+Debug/
+Release/
+x64/
+*.exe
+*.log
+*.pdb
+*.cache
+*.ilk
+
+# SFML İlgili Dosyalar
+*.o
+*.a
+*.lib
+*.dll
+*.dylib
+*.so
+bin/
+lib/
+
+# Build Output
+*.obj
+*.exe
+*.app
+*.out
+*.iobj
+*.ipdb
+
+# Paketleme ve Build Sistemi Dosyaları
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Diğer Gereksiz Dosyalar
+*.sln
+*.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.log
+
+# SFML Kaynak ve Görsel Dosyaları
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tga
+*.psd
+*.ico
+*.svg
+*.raw
+
+# Kişisel Ayar Dosyaları
+*.psess
+*.tlog
+*.lastbuildstate
+
+# Geçici Dosyalar
+*.tmp
+*.temp
+~$*
+
+# .gitignore Özel Dosyaları
+!.gitignore
