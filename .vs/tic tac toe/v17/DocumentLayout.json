@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\method.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|solutionrelative:tic tac toe\\headers\\method.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|solutionrelative:tic tac toe\\headers\\myheader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{77DC7D80-5D63-4D49-8354-E9CE2D65AD20}|solutionrelative:tic tac toe\\headers\\class.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CD5E45-5C97-4BB1-AC65-CCAFCBE9F4C8}|tic tac toe\\tic tac toe.vcxproj|C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71CD5E45-5C97-4BB1-AC65-CCAFCBE9F4C8}|tic tac toe\\tic tac toe.vcxproj|solutionrelative:tic tac toe\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicTacToe.cpp",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\TicTacToe.cpp",
+              "RelativeDocumentMoniker": "tic tac toe\\TicTacToe.cpp",
+              "ToolTip": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\TicTacToe.cpp",
+              "RelativeToolTip": "tic tac toe\\TicTacToe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T11:44:13.953Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "class.h",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\class.h",
+              "RelativeDocumentMoniker": "tic tac toe\\headers\\class.h",
+              "ToolTip": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\class.h",
+              "RelativeToolTip": "tic tac toe\\headers\\class.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T16:46:56.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myheader.h",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\myheader.h",
+              "RelativeDocumentMoniker": "tic tac toe\\headers\\myheader.h",
+              "ToolTip": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\myheader.h",
+              "RelativeToolTip": "tic tac toe\\headers\\myheader.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T12:26:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "method.h",
+              "DocumentMoniker": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\method.h",
+              "RelativeDocumentMoniker": "tic tac toe\\headers\\method.h",
+              "ToolTip": "C:\\Users\\WIN10\\Desktop\\tic tac toe\\tic tac toe\\headers\\method.h",
+              "RelativeToolTip": "tic tac toe\\headers\\method.h",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T12:26:50.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
