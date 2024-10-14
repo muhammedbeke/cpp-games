@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Visual Studio 2022 İlgili Dosyalar
 .vs/
@@ -74,3 +75,79 @@ Thumbs.db
 
 # .gitignore Özel Dosyaları
 !.gitignore
+=======
+# Visual Studio
+.vscode/
+*.code-workspace
+*.vcxproj*
+*.vcxproj.filters
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.db
+*.cache
+*.log
+.vscode/settings.json
+
+# C++ derleme dosyaları
+*.obj
+*.o
+*.pdb
+*.exe
+*.dll
+*.ilk
+*.lib
+*.idb
+*.exp
+*.log
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# SFML Binaries (SFML kurulum dosyalarını veya derleme çıktısını hariç tutmak)
+bin/
+lib/
+*.a
+*.so
+*.dylib
+*.dll
+
+# Temp dosyalar ve cache'ler
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.directory
+
+# Çıktı dosyaları
+build/
+dist/
+Debug/
+Release/
+x64/
+x86/
+
+# Diğer kullanıcı ayar dosyaları
+*.psess
+*.vcxproj.user
+*.vcxproj.filters
+*.tlog
+*.lastbuildstate
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.VC.opendb
+*.ipdb
+*.opendb
+
+# JSON ve yapılandırma dosyaları
+CppProperties.json  # VS Code C++ yapılandırma dosyası
+launch.json
+tasks.json
+>>>>>>> 372331a49deec35b1337cc3afec0659ce46c618b
